@@ -81,8 +81,9 @@ A results-driven **Web & E-Commerce Developer** specializing in custom Shopify s
 
 ## 📊 GitHub Analytics
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AnkitThakur67&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitThakur67&layout=compact&langs_count=8&theme=github_dark" />
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Liquid-008060?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </div>
 
 ---
