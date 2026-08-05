@@ -16,10 +16,10 @@
   <a href="https://linkedin.com/in/your-username">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:at667448@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-portfolio.com">
+  <a href="https://ankit-thakur-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-008060?style=for-the-badge&logo=shopify&logoColor=white" alt="Portfolio" />
   </a>
 
@@ -35,7 +35,7 @@ A results-driven **Web & E-Commerce Developer** specializing in custom Shopify s
 
 <div align="center">
   <!-- Profile Illustration Image -->
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80" width="75%" style="border-radius:10px;" alt="Developer Workspace Setup" />
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80" width="80%" style="border-radius:10px;" alt="Developer Workspace Setup" />
 </div>
 
 ---
@@ -49,7 +49,6 @@ A results-driven **Web & E-Commerce Developer** specializing in custom Shopify s
   <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
   <img src="https://img.shields.io/badge/Liquid-008060?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -64,16 +63,16 @@ A results-driven **Web & E-Commerce Developer** specializing in custom Shopify s
 - Optimized asset loading, reduced JavaScript execution, and improved overall PageSpeed scores.
 
 ### ⚡ Headless Storefront Development
-- Architecting Next.js applications to convert monolithic Shopify stores into fast, headless web apps.
+- Architecting React applications to convert monolithic Shopify stores into fast, headless web apps.
 
 ### 🎥 Dynamic Web Applications
-- Built automated video generation interfaces using React, Node.js, and Remotion.
+- Built automated Health calculator interfaces using React.
 
 ---
 
 ## 💼 Professional Background
 
-- **Freelance Web & Shopify Developer**
+- **Web & Shopify Developer**
   - Custom theme development, site migrations, liquid adjustments, and performance optimization.
 - **Assembly Operations / COS Machine Operator**
   - Handled Cast On Strap machine operations, building strong attention to detail, efficiency, and process management skills.
@@ -81,10 +80,9 @@ A results-driven **Web & E-Commerce Developer** specializing in custom Shopify s
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=emerald&hide_border=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=emerald&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AnkitThakur67&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitThakur67&layout=compact&langs_count=8&theme=github_dark" />
 </div>
 
 ---
